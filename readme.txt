@@ -10,7 +10,7 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 Studbook for official or private use in horse breeding organizations.
 
-NB Work in Progress, does not work as it should *************************************
+NB ************** Work in Progress, does not work as it should *************************************
 
 == Description ==
 Studbook registration display and printout program for use in breeding organizations.
